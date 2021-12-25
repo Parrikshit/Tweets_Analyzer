@@ -1,1 +1,9 @@
 tweepy==4.4.0
+textblob
+wordcloud
+pandas
+numpy
+re
+matplotlib
+PIL
+seaborn
