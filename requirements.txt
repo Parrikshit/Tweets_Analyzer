@@ -4,5 +4,4 @@ wordcloud
 pandas
 numpy
 matplotlib
-PIL
 seaborn
