@@ -3,7 +3,6 @@ textblob
 wordcloud
 pandas
 numpy
-re
 matplotlib
 PIL
 seaborn
